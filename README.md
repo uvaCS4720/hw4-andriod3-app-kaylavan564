@@ -1,1 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/e4rOHRfR)
+Name: Kayla Van
+
+Computing ID: PRT5GG
+
+# Campus Maps App
+
+## Overview
+This app displays locations around UVA on a Google Map. Data is pulled from a placemarks API and stored locally using SQLite database. Users can filter locations by tag using a dropdown menu.
+
+## Features
+- Google Map centered on UVA
+- Markers for campus locations
+- Info window showing name and short snippet of the description when a marker is tapped
+- Dropdown menu with all unique tags (alphabetical and scrollable)
+- Default filter set to "core"
+- Data stored locally (no duplicate entries on multiple runs)
+
