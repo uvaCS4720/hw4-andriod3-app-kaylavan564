@@ -15,3 +15,7 @@ This app displays locations around UVA on a Google Map. Data is pulled from a pl
 - Default filter set to "core"
 - Data stored locally (no duplicate entries on multiple runs)
 
+## API Key Note
+This project usees a Google Maps API key stored locally in 'local.properties'. To run this app with map functionality, add the following line to your 'local.properties':
+
+MAPS_API_KEY=YOUR_KEY
